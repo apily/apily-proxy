@@ -1,0 +1,23 @@
+{
+  "name": "apily-proxy",
+  "version": "0.0.0",
+  "description": "Apily — same-origin policy crasher",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:nko3/romejs.git"
+  },
+  "dependencies": {
+    "http-proxy": "*",
+    "connect": "*",
+    "express": "*",
+    "oauth": "*",
+    "superagent": "*"
+  },
+  "engines": {
+    "node": "0.8.x"
+  }
+}
