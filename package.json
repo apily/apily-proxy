@@ -1,6 +1,16 @@
 {
   "name": "apily-proxy",
   "version": "0.0.1",
+  "maintainers": [
+    {
+      "name": "Enrico Marino",
+      "email": "enrico.marino@email.com"
+    },
+    {
+      "name": "Federico Spini",
+      "email": "federico.spini@gmail.com"
+    }
+  ],
   "description": "Apily — same-origin policy crasher",
   "main": "server.js",
   "scripts": {
